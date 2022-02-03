@@ -31,7 +31,7 @@ public class estoque {
         ArrayList<String> item = new ArrayList<>();
 
         do {
-            System.out.println("+---------------------------------------+");
+            System.out.println("|_______________________________________|");
             System.out.println("|............ LOJA GENERATION ..........|");
             System.out.println("|_______________________________________|");
 
